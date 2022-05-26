@@ -1,0 +1,10 @@
+#modo{
+    width: 15px;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.dark i{
+    color: #ffffff;
+}
